@@ -1,9 +1,11 @@
+/* Title centering e styiling */
 h1{
     text-align: center;
     color: goldenrod;
     font-style: italic;
 }
 
+/* Image centering */
 .helloworld{
     margin: auto;
     width: 300;
