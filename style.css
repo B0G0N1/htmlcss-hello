@@ -3,3 +3,8 @@ h1{
     color: goldenrod;
     font-style: italic;
 }
+
+.helloworld{
+    margin: auto;
+    width: 300;
+}
